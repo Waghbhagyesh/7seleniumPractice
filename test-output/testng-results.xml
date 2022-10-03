@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12149" started-at="2022-02-28T20:07:07 IST" finished-at="2022-02-28T20:07:19 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="12149" started-at="2022-02-28T20:07:07 IST" finished-at="2022-02-28T20:07:19 IST">
+      <class name="org.form.Google">
+        <test-method status="PASS" signature="b()[pri:0, instance:org.form.Google@eb21112]" name="b" is-config="true" duration-ms="11811" started-at="2022-02-28T20:07:07 IST" finished-at="2022-02-28T20:07:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method status="PASS" signature="login()[pri:0, instance:org.form.Google@eb21112]" name="login" duration-ms="267" started-at="2022-02-28T20:07:19 IST" finished-at="2022-02-28T20:07:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- org.form.Google -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
